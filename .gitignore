@@ -1,0 +1,8 @@
+*~
+*.gch
+*.s
+*.e
+*.o
+*#
+a.out
+snake
